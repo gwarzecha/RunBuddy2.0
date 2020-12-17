@@ -380,6 +380,8 @@ section {
 .flex-row {
   display: flex;
 }
+/* UTILITIES END */  
+
 /* SERVICE STYLES BEGIN */
 .services {
   background: #fce138;
